@@ -22,7 +22,7 @@ function Login() {
         
 
        
-		const response = await fetch('https://amazon-clanke.herokuapp.com/api/login', {
+		const response = await fetch('http://localhost:1337/api/api/login', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json',
