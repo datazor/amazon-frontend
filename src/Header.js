@@ -22,7 +22,7 @@ function Header() {
   async function eraseSession(event){
     event.preventDefault()
 
-    const response = await fetch('http://localhost:1337/api/savebasket', {
+    const response = await fetch('https://amazon-clanke.herokuapp.com/api/savebasket', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json',
