@@ -66,7 +66,7 @@ function Login() {
 
         function toregister(){
 
-            window.location.href="/register";
+            navigate('/register');
 
 
         } 
