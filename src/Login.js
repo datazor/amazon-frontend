@@ -22,7 +22,7 @@ function Login() {
         
 
        
-		const response = await fetch('http://localhost:1337/api/api/login', {
+		const response = await fetch('http://localhost:1337/api/login', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json',
