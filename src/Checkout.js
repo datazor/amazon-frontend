@@ -3,12 +3,12 @@ import "./Checkout.css";
 import Subtotal from './Subtotal';
 import CheckoutProduct from './CheckoutProduct';
 import {useStateValue} from './Stateprovider';
-import {useLocation} from 'react-router-dom';
+
 
 
 
 function Checkout() {
-  const [{basket},dispatch] = useStateValue(); 
+  const [{basket},] = useStateValue(); 
 
   console.log(basket)
 
