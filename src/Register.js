@@ -14,7 +14,7 @@ function Register() {
     async function registerUser(event) {
 		event.preventDefault()
 
-		const response = await fetch('https://aqueous-forest-68132.herokuapp.com/register', {
+		const response = await fetch('https://aqueous-forest-68132.herokuapp.com/api/register', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json',
