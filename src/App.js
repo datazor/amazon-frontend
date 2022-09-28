@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import './App.css';
 import Header from './Header.js';
 import Home from "./Home";
@@ -18,7 +18,7 @@ import {useStateValue} from './Stateprovider';
 
 function App() {
 
-  
+  const [{},dispatch] = useStateValue();
 
   return(
     <Router>  

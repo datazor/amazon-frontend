@@ -22,7 +22,7 @@ function Login() {
         
 
        
-		const response = await fetch('http://localhost:1337/api/login', {
+		const response = await fetch('https://aqueous-forest-68132.herokuapp.com/api/login', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json',
