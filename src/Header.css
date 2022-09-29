@@ -64,6 +64,20 @@ font-size: 10px;
 
 }
 
+.header__optionLineOneDisable{
+font-size: 10px;
+color:grey;
+}
+
+.header__optionLineTwoDisable{
+
+  font-size: 13px;
+  
+  font-weight: 800;
+  color:grey;
+
+}
+
 
 
 .header__searchInput{
