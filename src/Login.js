@@ -96,6 +96,7 @@ return (
 
             <p>
                 DON'T WORRY NO CONDITIONS BE HAPPY Lemrabott :)
+		⚠️⚠️⚠️ THIS IS AN AMAZON CLONE DO NOT INPUT REAL INFORMATIONS!!!!!
             </p>
 
             <button onClick={toregister}  className='login__registerButton'>Create your Amazon Account</button>
