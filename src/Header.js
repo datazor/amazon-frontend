@@ -111,6 +111,7 @@ function Header() {
         <input
             className='header__searchInput'
             type = 'text'
+	    placeholder="THIS NOT THE REAL AMAZON DO NOT GIVE SENSITIVE INFORMATION !!!"
             
         />
         <SearchIcon className='header__searchIcon'/>
