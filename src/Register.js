@@ -55,6 +55,12 @@ function Register() {
                 <button type='submit' onClick={registerUser} className='register__signUpButton'>Create Account</button>
       </form>
 
+
+
+		 <p>
+		⚠️⚠️⚠️ THIS IS A FAKE AMAZON CLONE DO NOT INPUT REAL INFORMATIONS!!!!!
+                </p>
+
        </div>
        </div>
   )
