@@ -20,7 +20,7 @@ function Checkout() {
 
     <div className= "checkout__left">
 
-    <img className= "checkout__ad" src="https://images-eu.ssl-images-amazon.com/images/G/08/FR-hq/2021/img/Warehouse_Deals/XCM_Manual_1314793_1619122_FR_AW_fr_aw_fr_header_rewording_fr_fr_3737993_1500x80_fr_FR.jpg" alt="checkout__ad" />
+    
 
     <div className="checkout__basket">
 
