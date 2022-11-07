@@ -41,7 +41,7 @@ function Register() {
   return (
     <div className='register'>
     <Link to ="/">
-     <img className='register__logo' src="https://pngimg.com/uploads/amazon/amazon_PNG21.png" alt='amazon__logo'/>
+     
     </Link>
       <div className='register__container'>
       <h2>Sign Up</h2>
