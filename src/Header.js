@@ -98,13 +98,6 @@ function Header() {
   return (
     <div className='header'>  
     <Link to ="/">
-    <img
-    className="header__logo"
-    src="https://pngimg.com/uploads/amazon/amazon_PNG25.png"       
-    alt="amazon logo"
-
-    />
-
     </Link>
 
     <div className="header__search">
